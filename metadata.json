@@ -1,0 +1,7 @@
+{
+  "name": "Aroma AI Café",
+  "description": "A premium AI-powered coffee ordering experience with personalized recommendations and a modern Starbucks-inspired interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
